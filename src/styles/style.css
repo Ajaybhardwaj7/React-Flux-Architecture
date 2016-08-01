@@ -1,0 +1,23 @@
+html , body , #main {
+	height : 100%
+}
+
+.center {
+	text-align: center;
+}
+.left {
+	text-align : left;
+}
+table {
+	border-collapse : collapse;
+	margin: auto;
+}
+table td, table th {
+	border : 1px solid black;
+	width: 160px;
+}
+
+input[type="button"]{
+	position: relative;
+	
+}
